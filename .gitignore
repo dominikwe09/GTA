@@ -1,0 +1,14 @@
+﻿# BlueJ
+*.ctxt
+package.bluej
+
+# Java compiled files
+out/
+*.class
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# macOS
+.DS_Store
