@@ -12,3 +12,8 @@ out/
 
 # macOS
 .DS_Store
+
+out/
+release/
+dist/
+GTA.jar
